@@ -1,0 +1,8 @@
+algorithm = FRBDT
+inputData = "/Users/yangyangxue/文档/论文/BRBDT/Application/FRBDT7/datasets/led7digit/led7digit-10-1tra.dat" "/Users/yangyangxue/文档/论文/BRBDT/Application/FRBDT7/datasets/led7digit/led7digit-10-1tra.dat" "/Users/yangyangxue/文档/论文/BRBDT/Application/FRBDT7/datasets/led7digit/led7digit-10-1tst.dat" 
+outputData = "/Users/yangyangxue/文档/论文/BRBDT/Application/FRBDT7/results/FRBDT-C.led7digit/result0s0.tra" "/Users/yangyangxue/文档/论文/BRBDT/Application/FRBDT7/results/FRBDT-C.led7digit/result0s0.tst" "/Users/yangyangxue/文档/论文/BRBDT/Application/FRBDT7/results/FRBDT-C.led7digit/result0s0e0.txt"  
+
+seed=123456
+Number of Attributes = 5
+Threshold = 0.6
+Alpha = 0.02
